@@ -1,0 +1,7 @@
+.sss{
+    border-radius: 50;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background: url('./img_bg_2.jpg');
+    /* background: olive ; */
+}
